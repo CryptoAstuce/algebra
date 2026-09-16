@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours pédagogique en français présente les corps finis, courbes elliptiques, pairings, polynômes, hash-to-curve et sérialisation d’arkworks algebra. Voir [docs/fr/README.md](docs/fr/README.md).
+
 <h1 align="center">arkworks::algebra</h1>
 
 <p align="center">
